@@ -14,23 +14,3 @@ If it has attention mechanisms, I’m all in.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram1918&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram1918&theme=radical&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram1918&theme=radical&show_icons=true)
-
----
-
-### 🔝 Top Contributed Repos
-![Top Repo Contributors](https://github-contributor-stats.vercel.app/api?username=Sriram1918&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Sriram1918&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly crafted with ChatGPT’s magic ✨ -->
