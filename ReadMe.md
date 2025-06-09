@@ -15,14 +15,8 @@ If it has attention mechanisms, I’m all in.
 
 ---
 
-# 📊 GitHub Stats & Flex
+# 📊 GitHub Stats
 
-## 🏅 Highlights & Honors  
-- 🔥 Consistent Contributor: Quality > Quantity every time.  
-- 🚀 Fast Learner: Absorbing ML like a sponge on steroids.  
-- 🤝 Team Player: Collaborates like a pro, communicates like a champ.  
-- 💡 Bug Squasher: Turning errors into features daily.  
-- 🏆 Community Builder: Sharing knowledge, spreading good vibes.
 
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sriram1918&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram1918&theme=radical&layout=compact)  
