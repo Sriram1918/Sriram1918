@@ -1,4 +1,4 @@
-# 💫 About Me
+
 Training models, chasing insights, and occasionally losing my mind.  
 If it has attention mechanisms, I’m all in.
 
